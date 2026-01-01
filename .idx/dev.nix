@@ -28,5 +28,7 @@
         };
       };
     };
-  };
+  }
 }
+pkgs.python311Packages.pip
+
